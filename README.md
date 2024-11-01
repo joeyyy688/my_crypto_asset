@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-1. Clone the project to your desired directory `git clone https://github.com/joeyyy688/ejara_assignment_project.git`
+1. Clone the project to your desired directory `git clone https://github.com/joeyyy688/my_crypto_asset`
 2. run `flutter pub get`
 3. run `flutter pub run build_runner build --delete-conflicting-outputs`
 
@@ -20,8 +20,8 @@ A new Flutter project.
 </div>
 
 ## Font Used
-* [Big Caslon FB]
-* [Brandon Grotesque]
+* Big Caslon FB
+* Brandon Grotesque
 
 ## Flutter Version Used
 * Channel stable, 3.24.1,
