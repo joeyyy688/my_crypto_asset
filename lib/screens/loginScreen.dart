@@ -43,7 +43,6 @@ class _LoginScreenState extends State<LoginScreen> {
           await _auth.signInWithCredential(credential);
       return userCredential.user;
     } catch (e) {
-      print('Error during Google sign-in: $e');
       return null;
     }
   }

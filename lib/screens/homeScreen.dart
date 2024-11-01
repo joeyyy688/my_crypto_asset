@@ -9,7 +9,6 @@ import 'package:my_crypto_asset/constants/app_textSizes.dart';
 import 'package:my_crypto_asset/providers/appStateProvider.dart';
 import 'package:my_crypto_asset/screens/favoriteScreen.dart';
 import 'package:my_crypto_asset/screens/fundCrptoWalletScreen.dart';
-import 'package:my_crypto_asset/screens/loginScreen.dart';
 import 'package:my_crypto_asset/utilities/utils.dart';
 import 'package:my_crypto_asset/widgets/buttons/iconButton.dart';
 import 'package:my_crypto_asset/widgets/cryptoBalanceCard.dart';
